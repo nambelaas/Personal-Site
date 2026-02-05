@@ -22,7 +22,7 @@ export function Experience() {
       <div id="experience" className="py-30">
         <TypographyH2 text="Experience" />
         <div className="flex flex-col md:flex-row mt-12">
-          <div id="work" className="flex flex-col gap-8 basis-1/3 border-b-2 border-dotted md:border-r-2 border-gray-400 pb-6 md:pb-0 md:pr-3">
+          <div id="work" className="flex flex-col gap-8 basis-1/3 border-b-2 md:border-b-0 border-dotted md:border-r-2 border-gray-400 pb-6 md:pb-0 md:pr-3">
             <TypographyLarge text="Work" />
             <div className="flex flex-col gap-4">
               <div id="card1">
