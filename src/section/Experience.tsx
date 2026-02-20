@@ -177,7 +177,7 @@ export function Experience() {
                     className="relative z-20 aspect-video w-full object-cover rounded-t-xl"
                   />
                   <CardHeader>
-                    <CardTitle className="text-(--custom-dark-color-2)">Swift Ads</CardTitle>
+                    <CardTitle className="text-(--custom-dark-color-2)">Swift Connector</CardTitle>
                     <CardDescription className="text-justify text-(--custom-dark-color-3)">
                       Microservice for internal projects named Swifthub to
                       manage product, order, shipping from several marketplace
