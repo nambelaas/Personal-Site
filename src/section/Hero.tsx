@@ -117,7 +117,7 @@ export default function Hero() {
               className="text-(--custom-dark-color-1)"
             >
               <a
-                href="https://drive.google.com/file/d/1Rgwu-Gp2q08manimzopgCfE4dFsdoQAF/view?usp=sharing"
+                href="https://drive.google.com/file/d/1o3Gk8fibDn6U6ieZhZpnxFm_0ynMP6RQ/view?usp=sharing"
                 target="blank"
               >
                 <ArrowDown />
